@@ -22,3 +22,13 @@
     - retail 데이터
     - https://github.com/springcoil/marsmodelling
 
+## OTT에서 코호트 분석
+- 정액제 기반 콘텐츠 소비하는 서비스
+    - 최초 소비 시간 정보
+    - 소비를 한 기간(50분 시청, 10분 시청)
+    - 그룹을 정하기 위한 인터벌 체크
+        - raw data부터 계산(이론, 절차등)해서 획득
+    
+- 데이터
+    - 넷플릭스(캐글에서 제공한 데이터)
+    - https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies
